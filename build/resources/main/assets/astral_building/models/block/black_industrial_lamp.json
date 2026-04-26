@@ -1,0 +1,7 @@
+{
+  "parent": "astral_building:block/industrial_lamp",
+  "textures": {
+    "0": "astral_building:block/black_industrial_lamp",
+    "particle": "astral_building:block/black_industrial_lamp"
+  }
+}

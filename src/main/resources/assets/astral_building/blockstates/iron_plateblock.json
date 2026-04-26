@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "astral_building:block/iron_plateblock"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "astral_building:block/iron_pillar_top",
+    "side": "astral_building:block/iron_pillar"
+  }
+}

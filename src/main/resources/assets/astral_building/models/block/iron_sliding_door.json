@@ -1,0 +1,7 @@
+{
+  "parent": "astral_building:block/sliding_door",
+  "textures": {
+    "0": "astral_building:block/sliding_door/iron_sliding_door",
+    "particle": "astral_building:block/sliding_door/iron_sliding_door"
+  }
+}

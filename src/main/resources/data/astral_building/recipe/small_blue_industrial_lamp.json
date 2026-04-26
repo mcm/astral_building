@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:blue_dye"
+    },
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "I": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "pattern": [
+    "GG",
+    "#I"
+  ],
+  "result": {
+    "count": 8,
+    "item": "astral_building:small_blue_industrial_lamp"
+  }
+}

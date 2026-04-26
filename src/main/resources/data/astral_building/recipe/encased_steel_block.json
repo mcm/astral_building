@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "c:plates/steel"
+    },
+    "I": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "pattern": [
+    "III",
+    "###",
+    "III"
+  ],
+  "result": {
+    "count": 64,
+    "item": "astral_building:encased_steel_block"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "c:plates/steel"
+    },
+    "I": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "pattern": [
+    "#I#",
+    "III",
+    "#I#"
+  ],
+  "result": {
+    "count": 64,
+    "item": "astral_building:steel_panel"
+  }
+}

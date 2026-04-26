@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "astral_building:iron_plating"
+    }
+  ],
+  "result": {
+    "item": "astral_building:iron_plating_button"
+  }
+}

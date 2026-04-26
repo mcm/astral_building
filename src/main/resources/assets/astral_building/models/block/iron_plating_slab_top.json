@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "astral_building:block/iron_plating",
+    "top": "astral_building:block/iron_plating",
+    "side": "astral_building:block/iron_plating"
+  }
+}

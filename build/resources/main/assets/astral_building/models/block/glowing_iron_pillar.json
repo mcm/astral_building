@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "astral_building:block/glowing_iron_pillar_top",
-    "side": "astral_building:block/glowing_iron_pillar"
-  }
-}

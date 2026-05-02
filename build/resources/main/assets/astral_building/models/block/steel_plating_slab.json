@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "astral_building:block/steel_plating",
-    "top": "astral_building:block/steel_plating",
-    "side": "astral_building:block/steel_plating"
-  }
-}

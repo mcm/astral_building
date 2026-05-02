@@ -1,18 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "#": {
-      "tag": "c:plates/iron"
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:iron_block"
+    },
+    "result": {
+        "id": "astral_building:iron_plating"
     }
-  },
-  "pattern": [
-    "###",
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 64,
-    "item": "astral_building:iron_plating"
-  }
 }

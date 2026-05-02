@@ -2,22 +2,22 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "astral_building:iron_plating"
+    "I": {
+      "tag": "c:ingots/iron"
     },
     "B": {
-      "tag": "c:storage_blocks/steel"
+      "item": "astral_building:iron_plating"
     },
     "P": {
       "item": "minecraft:glass_pane"
     }
   },
   "pattern": [
-    "###",
+    "III",
     "PBP",
-    "###"
+    "III"
   ],
   "result": {
-    "item": "astral_building:iron_sliding_door"
+    "id": "astral_building:iron_sliding_door"
   }
 }

@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "c:plates/steel"
+      "tag": "c:ingots/steel"
     },
     "B": {
       "tag": "c:storage_blocks/steel"
@@ -21,6 +21,6 @@
     "O#O"
   ],
   "result": {
-    "item": "astral_building:reinforced_door"
+    "id": "astral_building:reinforced_door"
   }
 }
